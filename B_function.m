@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 function B = B_function(parameters, one_data)  
     %% parameter declaration
     

@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 %% input data from text tile
 Data = readtable('data0206');
 Data(:,[1 5 10]) = [];

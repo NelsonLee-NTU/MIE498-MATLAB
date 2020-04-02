@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 function output = magnetic_field(position, motor_orientation)
     
     %% parameter declaration

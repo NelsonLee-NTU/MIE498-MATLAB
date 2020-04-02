@@ -1,3 +1,6 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
+
 % x = linspace(-0.2,0.2,41);
 % N_points = size(x,2);
 % motor_orientation = [0 0 0 0];

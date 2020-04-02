@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 function data = get_data(file);
     %% input data from text tile
     Data = readtable(file);

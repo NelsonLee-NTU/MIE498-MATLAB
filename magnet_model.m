@@ -1,4 +1,5 @@
-
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 % input
 theta_i = [pi/2 pi/2 pi/2 pi/2];
 % theta_i = [0 0 0 0];

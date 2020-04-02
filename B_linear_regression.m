@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 data = get_data('data0320(4)');
 
 fun_opt = @(x) B_sum_of_squared_residuals(x,data);

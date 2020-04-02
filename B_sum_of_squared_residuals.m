@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 function s = B_sum_of_squared_residuals(parameters,data)
     
     %calculate number of inputs

@@ -1,3 +1,5 @@
+% AUTHOR: Kuan-Ting Lee
+% DATE: April 2nd 2020
 %% Measured Magnetic field
 clear
 file_read = 'data0320(7)';
